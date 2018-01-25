@@ -1,0 +1,294 @@
+header {
+  margin-top: 10px;
+}
+
+@font-face {
+  font-family: Athelas;
+  src: url(./assets/Athelas.ttc);
+}
+
+.logo-head {
+  width: 17%;
+  /*margin-left: 50px;*/
+}
+
+nav {
+  display: inline-block;
+  /*float: right;*/
+  /*margin-top: 38px;*/
+  font-size: 20px;
+  font-family: 'Open Sans';
+  background: white;
+}
+nav div {
+  /*margin-left: 61px;*/
+  background: white;
+}
+.navigation {
+  color: #2f6fd6;
+  word-spacing: 0px;
+  float: right;
+  margin-top: 50px;
+}
+
+/* .navbar div a:nth-child(2) {
+  margin-left: 360px;
+} */
+
+a, a:hover {
+  text-decoration: none;
+  padding-right: 40px;
+}
+
+.banner-image {
+  background-color: white;
+  font-family: 'Athelas', sans-serif;
+  /* margin-top: 150px; */
+  height: 460px;
+}
+
+#quality {
+  color: black;
+}
+
+.first-jumbo {
+  position: relative;
+  top: 50px;
+}
+
+.jumbotron .container {
+  text-align: center;
+
+}
+
+.jumbotron .container div:first-child {
+  font-size: 45px;
+  color: #2f6fd6;
+
+}
+
+/*.jumbotron .container div:nth-child(2) {
+  font-size: 45px;
+  color: #2f6fd6;
+
+}*/
+
+.jumbotron .container div:last-child {
+  font-size: 28px;
+  /*color: #2f6fd6;*/
+
+}
+
+/* .jumbo-image {
+  height: 300px;
+} */
+
+.slick-slider img {
+  height: 360px;
+}
+
+.first-slide {
+  position: relative;
+  top: 100px;
+}
+
+#service-tech-jumbo {
+  font-size: 50px;
+}
+
+#year {
+  font-size: 40px;
+  color: black;
+}
+
+.about-us-container {
+  margin-left: 20px;
+}
+
+.about-us {
+  background-color: #2f6fd6;
+  color: white;
+  height: 500px;
+  font-family: 'Athelas', sans-serif;
+}
+
+.about-us div:first-child {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 75px;
+}
+
+.about-us div:last-child {
+  margin-left: 16px;
+  margin-top: 25px;
+  font-size: 22px;
+
+}
+
+.about-us-img {
+  height: 500px;
+}
+
+.team {
+  font-family: 'Athelas', sans-serif;
+  color: #2f6fd6;
+  text-align: center;
+  margin-top: 45px;
+  word-spacing: 5px;
+  font-size: 45px;
+}
+
+.row .col-md-4 img {
+  width: 100%
+}
+
+/*.row {
+  margin-left: 10px;
+}*/
+
+/*.service-text {
+  margin-right: 10px;
+}*/
+
+.executive-team-imgs {
+  margin-top: 30px;
+}
+
+.executive-team-names {
+  text-align: center;
+  color: #464a51;
+  font-size: 25px;
+  margin-top: 30px;
+  font-family: 'Athelas', sans-serif;
+
+}
+
+.executive-team-info {
+  margin-top: 30px;
+  font-family: 'Athelas', sans-serif;
+  font-size: 19px;
+  padding-left: 15px;
+}
+
+.tower-img {
+  margin-top: 30px;
+}
+
+.tower-img img {
+  height: 400px;
+  width: 100%;
+}
+#culligan-header{
+  position: relative;
+    right: 20px;
+}
+
+#oil{
+  position: relative;
+    left: 75px;
+}
+
+.water-img {
+  margin-top: 30px;
+}
+
+.water-img img {
+  height: 400px;
+  width: 100%;
+}
+
+.water-headers{
+  margin-left: 100px!important;
+}
+
+.water-content {
+  margin-left: 70px!important;
+}
+
+.new-tower-img {
+  margin-top: 30px;
+}
+
+.new-tower-img img {
+  height: 400px;
+  width: 100%;
+}
+
+
+#lasting-solution {
+  position: relative;
+left: 65px;
+}
+
+#int{
+  position: relative;
+    left: 85px;
+}
+
+.nt-content {
+  margin-left: 35px!important;
+}
+
+.service-header {
+  margin-top: 200px;
+
+}
+.service-subheader-container{
+  margin-left: 200px;
+  margin-top: 75px;
+  font-size: 20px;
+  font-family: 'Athelas', sans-serif;
+}
+
+.service-subheader {
+  font-weight: bold;
+
+}
+
+.service-content {
+  font-family: 'Athelas', sans-serif;
+  margin-top: 20px;
+  padding-right: 0px;
+  font-size: 18px;
+  margin-left: 112px;
+}
+
+.culligan-logo {
+  margin-top: 100px;
+  margin-left: 40%;
+  width: 20%;
+}
+
+.footer {
+  margin-top: 200px;
+}
+
+.footer-contact {
+  background-color: #2f6fd6;
+  height: 450px;
+}
+
+.contact-us {
+  margin-top: 50px;
+  text-align: center;
+  font-size: 75px;
+}
+
+.contact-info {
+  text-align: center;
+}
+
+.email-us {
+  position: relative;
+      left: 15px;
+}
+
+.new-tower {
+  margin-top: 200px;
+}
+
+.back-to-top a {
+  position: relative;
+  left: 14px;
+  color: white;
+}
